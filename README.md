@@ -1,11 +1,4 @@
 ### Hi 😀
-看这里~  
-我是一名FZUer👨‍🎓  
-👉来自计算机与大数据学院（软件学院）🔽专业是计算机科学与技术（应用方向）🔽  
-🏃‍♂️平时的爱好就是跑跑步  
-👨‍💻代码量不大，目前刚刚接触GitHub  
-🙄相信将来能够在这里学到很多东西  
-🙏谢谢🤞
 <!--
 **ShakingSH/ShakingSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
